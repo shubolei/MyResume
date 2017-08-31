@@ -6,7 +6,7 @@ body{
 }
 h1, h2, h3, h4, h5, h6 {
     margin-left: 25px;
-    font-family: "Raleway";
+    font-family: "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 450;
     color: #333;
 
@@ -28,13 +28,13 @@ p {
 	right: 0;
 	z-index: 10000;
 	overflow: visible;
-	font: normal 16px/24px  'Open Sans', "menlo";
+	font: normal 16px/24px  'Open Sans',  "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 
 #topbar ul#nav i{
     color: #FDFBFB;
-    font: normal 15px "Menlo", sans-serif ;
+    font: normal 15px  "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif; ;
 }
 #innerbar {
 	background: #349CF6;
@@ -65,7 +65,7 @@ p {
 
 #topbar ul#nav a {
   display: block;
-  font: normal 11px/18px "menlo";
+  font: normal 11px/18px "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif;
   text-decoration: none;
   padding: 18px 20px 18px 20px;
   border-left: 1px solid #F3EEEE;
@@ -115,12 +115,12 @@ p {
 }
 
 #header h1 {
-    font: 50px "Menlo", sans-serif ;
+    font: 50px  "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif; 
 	color: #FFFFFF;
 }
 
 #header h3 {
-    font: 20px "Menlo", sans-serif ;
+    font: 20px  "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif; 
 	color: #FFFFFF;
 }
 /* header end*/
@@ -141,7 +141,7 @@ p {
 
 #intro i {
 	color: white;
-    font: 20px "menlo";
+    font: 20px "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif;
 	padding-right: 8px;
 	vertical-align: middle;
 }
@@ -156,7 +156,7 @@ p {
 }
 #school i {
     color:#2c3e50;
-    font: 14px "menlo";
+    font: 14px  "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
 }
 #school{
@@ -166,7 +166,7 @@ p {
 
     margin-left: 0px;
     padding-bottom: 20px;
-    font-family: "Raleway";
+    font-family:  "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 450;
 }
 #work{
@@ -182,7 +182,7 @@ p {
     color: white;
     margin-left: 25px;
     padding-bottom: 20px;
-    font-family: "Raleway";
+    font-family:  "Menlo","Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 450;
 }
 #work t {
