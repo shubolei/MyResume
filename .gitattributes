@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.woff2 binary
 
 # Custom for Visual Studio
 *.cs     diff=csharp
